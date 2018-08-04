@@ -1,3 +1,4 @@
 Print: Hello World, Чуваки
 Print: Hello World, и все остальные
 print ну еще раз здрасьте
+print привет друзья
